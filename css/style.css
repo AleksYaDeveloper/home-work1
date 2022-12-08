@@ -40,7 +40,7 @@ hr {
 }
 
 .hero {
-  background-image: url("/css/back.jpg");
+  background-image: url("../img/back.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
