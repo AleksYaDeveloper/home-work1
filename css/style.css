@@ -40,9 +40,11 @@ hr {
 }
 
 .hero {
-  background-image: url("./img/back.jpg");
+  background-image: url("/img/back.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   height: 88vh;
   padding-top: 15%;
   padding-left: 23%;
